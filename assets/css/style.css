@@ -94,3 +94,13 @@ color: #926239;
     background-color: #f9f9f9;
     color:#926239;
 }
+
+.third-column {
+    display: inline-block;
+    padding: 20px;
+    margin: 0;
+    width: 33.33%;
+    font-size: 17px;
+    background-color: #926239;
+    color: #f9f9f9;
+}
