@@ -70,3 +70,8 @@ color: #926239;
     background-color: #f9f9f9;
 }
 
+.columns {
+    font-size: 0;
+    text-align: left;
+}
+
